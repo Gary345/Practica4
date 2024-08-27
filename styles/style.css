@@ -1,0 +1,62 @@
+
+body{
+    background-color:rgb(44,62,80);
+}
+.navbar{
+    background: rgb(8,0,36);
+    background: linear-gradient(90deg, rgba(8,0,36,1) 0%, rgba(9,67,121,1) 35%, rgba(0,212,255,1) 100%); 
+    list-style: none;
+
+}
+ .navbar .navbar-brand{
+    color: rgb(255, 255, 255);
+    margin-right: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+ }
+ .navbar .nav-link{
+    
+    color: rgb(255, 255, 255);
+    margin-right: 100px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+ }
+ .navbar img{
+    width: 300px;
+    height: 90px;
+    border-radius: 8px;
+
+ }
+
+
+ .carousel-item img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+    max-width: 100%;
+    height: auto; 
+    margin-top: 10px;
+    width: 400px;
+    height: 200px;
+    
+}
+
+h4{
+    color: #E0E0E0;
+}
+p, li{
+    text-align: justify;
+    color: #B0C4DE;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon,.navbar-toggler{
+    background-color: rgb(146, 142, 207);
+    
+}
+
+#actualidad img{
+    width: 400px;
+    height: 200px;
+}

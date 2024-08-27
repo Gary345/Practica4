@@ -1,0 +1,43 @@
+
+.container .ubicaciones{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
+.col-sm .header {
+    text-align: center;
+    padding: 20px;
+}
+.location {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+ #imagenes{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 400px;
+    height: 300px;
+    border-radius: 8px;
+}
+
+
+.col-sm .location h2 {
+    margin-top: 0;
+}
+.col-sm .location p {
+    margin: 10px 0;
+    
+}
+.col-sm .location .info {
+    margin-top: 15px;
+    font-size: 14px;
+    color: #555;
+}
+.col-sm .location .info strong {
+    display: block;
+    margin-bottom: 5px;
+}
